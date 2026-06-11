@@ -32,8 +32,10 @@ pip install -r requirements.txt
 
 Run the model:
 python classification.py
-📸 Output Screenshot
+Output Screenshot
 Classification output 
+<img width="602" height="575" alt="image" src="https://github.com/user-attachments/assets/eec7056b-c41d-42cf-a44a-11a69bf4a5c5" />
+
 
 
 🧠 Skills Demonstrated
